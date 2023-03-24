@@ -1,0 +1,16 @@
+Los datos son:
+Nombre: Enrique
+Apellido: Mena
+--------
+Nombre: Ariana
+Apellido: Cordon
+--------
+Nombre: Pedro
+Apellido: Suarez
+--------
+Nombre: Roberto
+Apellido: Alfombra
+--------
+Nombre: Legion
+Apellido: Asesino
+--------
